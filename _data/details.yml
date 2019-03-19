@@ -1,0 +1,160 @@
+page-headers:
+
+    menu:
+        - title: Home
+          link: '#home'
+          
+        - title: Technology
+          link: '#technology' 
+          
+        - title: Products
+          link: '#products'
+          
+        - title: Services
+          link: '#services'
+
+        - title: Testimonials
+          link: '#testimonials'
+
+        - title: Team
+          link: '#team'
+
+        - title: Contact Us
+          link: '#contact'
+
+    
+    technology:
+        - title: Technology
+          details: The secret to the long shelf life, strength and aroma of Express Coffee is only possible by employing the latest technology.
+        
+    products:
+       - title: Our Products
+         details: You can rely on our amazing products and also our customer services will be great experience for you without doubt and in no-time.
+    
+    services: 
+       - title: You can Rely Upon Express Coffee
+         details: Our customer service is focused on providing the best support & service to our customers. Reach out to us for any issues, complaints or suggestions.
+         clients: 5000
+         coffee: 30000
+         staff: 3
+         awards: 1
+    
+    testimonials:
+       - title: What Our Customers Say?
+         details: 'Our customers have liked our coffee. Did you? <br>Here is what our amazing customers have to say about Express Coffee.'
+          
+    team:
+       - title: Our Dedicated Team
+         details: Express Coffee is very fortunate to have highly motivated and visionary founders establishing the brand of Express coffee. An uncompromising dedication and persistent hard work made it possible to realize their vision.
+
+    contact:
+       - title: Write to us!
+         details: We would like to hear from our customers about anything they have to say.
+         
+    footer: 
+        - about: 'Express coffee started in February 27, 2017 with a goal of bringing the pure taste of our historic coffee tradition into millions of Indians across the country.'
+          sanskrit: 'यवनदेशीयक्षुद्रफलनिर्हृतः कृष्णवर्णः पानीयविशेषः'
+          address: 'Opp: Hegde petrol bunk, Agumbe Road<br>Thirthahalli<br>Karnataka - 577432'
+          phone: '+91 948 222 6060'
+          email: 'info@expresscoffeeindia.com'
+          subscribe: Get updates on the new products and offers from Express Coffee India.
+          copyrights: Express Coffee India
+          facebook: Expresscoffeepvtltd
+
+slider:
+    - title: Royal Roast
+      details: 100% Pure Ground Coffee for Tasty, Rich & Strong Coffee Lovers. Coffee should be black as hell, strong as death and sweet as love!
+      image: Royal-500g-5.jpg
+    
+    - title: Ujwal
+      details: Rich Blend of Coffee & Chicory to Kick off the day with a Perfect Cup of Coffee. What goes best with a cup of Coffee? Another cup!
+      image: ujwal-500g-2.jpg
+      
+    - title: Express Classic 
+      details: Perfect Blend of Coffee with Chicory for a Tasty Coffee. May your coffee be strong and your Monday be short!
+      image: Classic-500g-slide5.jpg 
+      
+    - title: Roasted Coffee Beans 
+      details: "For those who Like to Grind their own Coffee. If you've never had freshly ground coffee, you may not even realize there is a difference."
+      image: Beans-500g.jpg
+      
+
+technology:
+
+    - title: Coffee Beans
+      details: Handpicked coffee beans grown on the mountains of Chikmagalur are used in the preperation of Express Coffee blend.
+      icon: icon-Coffee-Bean
+      
+    - title: Blending
+      details: Our modern grinding and blending techniques make the Express Coffee stay fresh for a long time.
+      icon: icon-Gears
+      
+    - title: Packing
+      details: Express coffee bags come with a valve from which the aroma can be felt without losing out any freshness.
+      icon: icon-Empty-Box
+
+
+products:
+
+    - title: Royal Roast
+      details: 100% Pure Ground Coffee
+      image: royal-roast-500g---products.jpg
+      link:
+      
+    - title: Ujwal
+      details: 70% Coffee, 30% Chicory
+      image: ujwal-500g---products.jpg
+      link:
+      
+    - title: Express Classic
+      details: Perfect Blend of Coffee & Chicory
+      image: classic-500g---products.jpg
+      link:
+      
+    - title: Roasted Coffe Bean
+      details: Freshly Roasted Coffee Beans
+      image: roasted-bean-500g-products.jpg
+      link:
+      
+      
+testimonials:
+
+    - title: Pruthviraj Kowri
+      position: Owner, Kowri Estate, Koppa
+      details: I have tried many different coffees before but Express coffee has the most authentic south Indian taste due to perfect blend of Coffee and Chicory without too much diluting the coffee flavour. Express classic and Ujwal offer enjoyable blend with right bitterness one can expect from pure Chikmagaluru coffee
+      image: Pruthviraj-Kowri.jpg
+      
+    - title: Pallavi Gowda
+      position: Executive Operations, Axis Bank
+      details: I love this coffee, it’s great, tasty, priced and delivered perfectly. Good part is, you get an option to buy freshly roasted coffee beans from Express Coffee, packaged nicely in aluminium foil sealed covers. Try this amazing roasted bean if you like to brew your own coffee.
+      image: Pallavi-Gowda.jpg
+      
+    - title: Geetha Thimmaiah
+      position: Housewife, Shivamogga
+      details: Strong, bold and superior quality coffee. My family loves it. It came packaged well with food grade aluminium foil covers, Vacuum sealed for freshness, shelf life is never an issue. I highly recommend trying Express Coffee products.
+      image: Geetha-Thimmaiah.jpg
+      
+    - title: Rajesh Gowda
+      position: Technology Manager, Hyderabad
+      details: Excellent coffee with excellent price. Products are superior to just about all other brands. I admire the consistency and taste of Express coffee. Delivered quickly with nice packaging. Highly recommend to try. Would purchase again.
+      image: Rajesh-Gowda.jpg
+      
+    - title: Roopa Hegde
+      position: IT Project Manager, Hyderabad 
+      details: Express Coffee has some of the best coffee to offer. I particularly liked Royal Roast which is pure coffee that makes a pretty strong and great tasting coffee. I would recommend everyone to try this amazing coffee!
+      image: Roopa-Hegde-1.jpg
+      
+    - title: Rajani Prathap
+      position: Co-owner, Gajanana Coffee Estate, Bankenahalli
+      details: Love this coffee. Rich, flavourful best tasting coffee for the money. Coffee is very smooth brown without any bitter taste. One of my favourite roast coffee. Price and service are great. I will buy again.
+      image: Rajani-Prathap.jpg
+      
+team:
+    
+    - title: Ramesh M S
+      position: Managing Director
+      image: Ramesh-m-s-managing-director.jpg
+    
+    - title: Durga Charan K S
+      position: Director
+      image: Charan-k-s-director.jpg
