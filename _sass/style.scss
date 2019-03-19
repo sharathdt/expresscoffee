@@ -7,7 +7,7 @@
  *	4. Banners
  *	5. Footers
  *	6. app
- *	7. Widgets 
+ *	7. Widgets
  *	8. Custom Templates
  */
 
@@ -177,11 +177,11 @@ File: scss
 /*Normal Color*/
 /*Extra Variable*/
 /*Gradiant*/
-/******************* 
-This is the font import from the google api 
+/*******************
+This is the font import from the google api
 *******************/
-/******************* 
-Global Styles 
+/*******************
+Global Styles
 *******************/
 * {
   outline: none; }
@@ -1225,7 +1225,7 @@ Buttons
   background: -webkit-linear-gradient(left, #951ee4 0%, #d431e8 100%);
   background: -o-linear-gradient(left, #951ee4 0%, #d431e8 100%);
   background: linear-gradient(to right, #951ee4 0%, #d431e8 100%);
-  border: 0px; 
+  border: 0px;
 }
   .btn-info-gradiant:hover {
     background: #316ce8;
@@ -1572,7 +1572,7 @@ Author: wrappixel
 Email: niravjoshi87@gmail.com
 File: scss
 */
-/******************* 
+/*******************
 Topbar
 *******************/
 .topbar {
@@ -1582,7 +1582,7 @@ Topbar
   transition: 0.2s ease-in;
   width: 100%;
   position: fixed;
-  z-index: 20; 
+  z-index: 20;
 }
   .topbar.fixed-header {
     -webkit-box-shadow: 0px 0px 30px rgba(115, 128, 157, 0.1);
@@ -1621,7 +1621,7 @@ Header 6
   .h6-nav-bar .act-buttons .btn {
     margin: 10px 0 10px 0px; } }
 
-/******************* 
+/*******************
 Main & Page wrapper
 *******************/
 .page-wrapper {
@@ -1630,20 +1630,20 @@ Main & Page wrapper
 #main-wrapper {
   overflow: hidden; }
 
-/******************* 
+/*******************
 container fluid
 *******************/
 .container-fluid {
   padding: 0px; }
 
-/******************* 
+/*******************
 footer
 *******************/
 .footer {
   padding: 20px 0;
   text-align: center; }
 
-/******************* 
+/*******************
 Fix-width
 *******************/
 .fix-width {
@@ -1652,7 +1652,7 @@ Fix-width
   margin: 0 auto;
   padding: 0 15px; }
 
-/******************* 
+/*******************
 Spacer
 *******************/
 .spacer {
@@ -1661,20 +1661,20 @@ Spacer
 .mini-spacer {
   padding: 40px 0; }
 
-/******************* 
+/*******************
 Title
 *******************/
 .title {
   margin: 20px 0 15px; }
 
-/******************* 
+/*******************
 Subtitle
 *******************/
 .subtitle {
   color: #8d97ad;
   line-height: 24px; }
 
-/******************* 
+/*******************
 card
 *******************/
 .card {
@@ -1688,7 +1688,7 @@ card
   border: 1px solid rgba(120, 130, 140, 0.13);
   margin-bottom: 30px; }
 
-/******************* 
+/*******************
 Icon space
 *******************/
 .icon-space {
@@ -1707,7 +1707,7 @@ Icon space
     .linking:hover i {
       margin-left: 15px; }
 
-/******************* 
+/*******************
 Listing
 *******************/
 .list-block {
@@ -1730,7 +1730,7 @@ Listing
     border-bottom: 1px solid rgba(120, 130, 140, 0.13);
     padding: 15px 0; }
 
-/******************* 
+/*******************
 Listing
 *******************/
 .img-inline {
@@ -1743,14 +1743,14 @@ Listing
       display: inline-block;
       vertical-align: top; }
 
-/******************* 
+/*******************
 Image shadow
 *******************/
 .img-shadow {
   -webkit-box-shadow: 0px 0px 30px rgba(115, 128, 157, 0.3);
   box-shadow: 0px 0px 30px rgba(115, 128, 157, 0.3); }
 
-/******************* 
+/*******************
 Image shadow
 *******************/
 .icon-round {
@@ -1765,7 +1765,7 @@ Image shadow
   -ms-flex-negative: 0;
   flex-shrink: 0; }
 
-/******************* 
+/*******************
 up section
 *******************/
 .up {
@@ -1779,26 +1779,26 @@ up section
   z-index: 100;
   visibility: hidden; }
 
-/******************* 
+/*******************
 both space
 *******************/
 .both-space {
   margin: 80px 0; }
 
-/******************* 
+/*******************
 Side text content
 *******************/
 .side-content {
   padding: 40px 60px; }
 
-/******************* 
+/*******************
 background cover
 *******************/
 .bg-cover {
   background-size: cover;
   min-height: 200px; }
 
-/******************* 
+/*******************
 Owl carousel
 *******************/
 .owl-carousel {
@@ -1814,7 +1814,7 @@ Owl carousel
   .owl-carousel .owl-nav.disabled {
     display: none; }
 
-/******************* 
+/*******************
 Max width
 *******************/
 .max-300 {
@@ -1829,7 +1829,7 @@ Max width
 .max-600 {
   max-width: 600px; }
 
-/******************* 
+/*******************
 line sticks
 *******************/
 .stick-bottom {
@@ -1843,7 +1843,7 @@ line sticks
     left: 0px;
     display: inline-block; }
 
-/******************* 
+/*******************
 position
 *******************/
 .po-absolute {
@@ -2317,7 +2317,7 @@ Timeline page
 .timeline-body > p + p {
   margin-top: 5px; }
 
-/*============================================================== 
+/*==============================================================
  Ui-bootstrap
  ============================================================== */
 ul.list-icons {
@@ -2374,7 +2374,7 @@ html body .accordion .card {
   #accordion4 .card.active .card-header a {
     color: #ffffff; }
 
-/*===================== 
+/*=====================
 Breadcrumb
 =====================*/
 .bc-colored .breadcrumb-item,
@@ -2439,7 +2439,7 @@ Breadcrumb
   background: #1dc8cd;
   border-color: #1dc8cd; }
 
-/*============================================================== 
+/*==============================================================
  Cards page
  ============================================================== */
 .card-columns .card {
@@ -2728,21 +2728,21 @@ Modal in center
 /*******************
 icons path
 *******************/
-@font-face {
-  font-family: 'icomoon';
-  src: url("/assets/icons/iconmind/fonts/icomoon.ttf?-rdmvgc") format("truetype"); }
-
-@font-face {
-  font-family: 'simple-line-icons';
-  src: url("/assets/icons/simple-line-icons/fonts/Simple-Line-Icons.ttf?-i3a2kk") format("truetype"); }
-
-@font-face {
-  font-family: 'themify';
-  src: url("/assets/icons/themify-icons/fonts/themify.ttf") format("truetype"); }
-
-@font-face {
-  font-family: 'FontAwesome';
-  src: url("/assets/icons/font-awesome/fonts/fontawesome-webfont.ttf?v=4.7.0") format("truetype"); }
+// @font-face {
+//   font-family: 'icomoon';
+//   src: url("/assets/icons/iconmind/fonts/icomoon.ttf?-rdmvgc") format("truetype"); }
+//
+// @font-face {
+//   font-family: 'simple-line-icons';
+//   src: url("/assets/icons/simple-line-icons/fonts/Simple-Line-Icons.ttf?-i3a2kk") format("truetype"); }
+//
+// @font-face {
+//   font-family: 'themify';
+//   src: url("/assets/icons/themify-icons/fonts/themify.ttf") format("truetype"); }
+//
+// @font-face {
+//   font-family: 'FontAwesome';
+//   src: url("/assets/icons/font-awesome/fonts/fontawesome-webfont.ttf?v=4.7.0") format("truetype"); }
 
 /*
 Template Name: Wrapkit Ui Kit
@@ -2750,14 +2750,14 @@ Author: Themedesigner
 Email: niravjoshi87@gmail.com
 File: scss
 */
-/*============================================================== 
- For Laptop & above all (1650px) 
+/*==============================================================
+ For Laptop & above all (1650px)
  ============================================================== */
-/*============================================================== 
- For Laptop & above all (1370px) 
+/*==============================================================
+ For Laptop & above all (1370px)
  ============================================================== */
-/*-- ============================================================== 
- Small Desktop & above all (1024px) 
+/*-- ==============================================================
+ Small Desktop & above all (1024px)
  ============================================================== */
 @media (min-width: 1024px) {
   .hover-dropdown .navbar-nav > .dropdown:hover > .dropdown-menu {
@@ -2802,11 +2802,11 @@ File: scss
         -webkit-animation-name: none;
         animation-name: none; } }
 
-/*-- ============================================================== 
- Ipad & above all(768px) 
+/*-- ==============================================================
+ Ipad & above all(768px)
  ============================================================== */
-/*-- ============================================================== 
- Phone and below ipad(767px) 
+/*-- ==============================================================
+ Phone and below ipad(767px)
  ============================================================== */
 @media (max-width: 767px) {
   /*This is for the Global*/
@@ -2851,7 +2851,7 @@ File: scss
     width: 100%;
     height: 450px;
 
-    
+
 }
 @media (max-width: 767px) {
     .map {
@@ -2859,7 +2859,7 @@ File: scss
         height: 350px;
     }
     }
-.copy {    
+.copy {
     margin-top: 0;
     .text-right {
         margin-top: 0;
@@ -2872,5 +2872,5 @@ File: scss
             text-align: center !important;
         }
     }
-    
+
 }

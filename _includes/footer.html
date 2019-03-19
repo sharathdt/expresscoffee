@@ -2,7 +2,7 @@
     {% for item in site.data.details.page-headers.footer %}
     <div class="f2-topbar container">
         <div class="d-flex">
-            <a href="#"><img src="/images/footer-logox200.png" alt="Express Cofee India"></a>
+            <a href="#"><img src="{{site.baseurl}}/images/footer-logox200.png" alt="Express Cofee India"></a>
             <div class="ml-auto align-self-center copy">
                 <span class="text-white">{{item.copyrights}}</span> © 2018 All rights reserved.<br> <p class="text-right">Developed by <a href="http://webjeda.com" class="text-white">webjeda</a></p>
             </div>
@@ -21,9 +21,9 @@
                         <a href="#" class="link"><i class="fa fa-linkedin"></i></a>
                         <a href="#" class="link"><i class="fa fa-pinterest"></i></a>
                         <a href="#" class="link"><i class="fa fa-instagram"></i></a> -->
-                        
+
                         {% include facebook-page.html %}
-                        
+
                     </div>
                 </div>
                 <!-- Column -->
@@ -80,7 +80,7 @@
             </div>
         </div>
     </div>
-    
+
     {% endfor %}
 </div>
 
