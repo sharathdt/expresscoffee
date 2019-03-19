@@ -8,6 +8,7 @@ lang: en_IN
 # shop: https://shop.expresscoffeeindia.com/
 shop: '#'
 
+baseurl: /expresscoffee
 
 analytics: UA-115749700-1
 
