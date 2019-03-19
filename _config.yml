@@ -23,6 +23,8 @@ google_site_verification:
 form-entry: https://docs.google.com/spreadsheets/d/14KCGIs5lSbP1rYAPBSvmlX52FbErwj_34L-u3fu2crU/edit?usp=forms_web_b#gid=373835449
 
 
+
+
 #compress.html
 compress_html:
   clippings: [html,div, p, ul, td, h1, h2, h3, h4, h5, h6, link, meta, footer, nav, img, header, hr, br, head, style, li, ul, ol, time, main, script, title, input, form, iframe, textarea]
